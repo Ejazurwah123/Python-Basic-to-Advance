@@ -34,3 +34,6 @@ The input should be the file wrong.txt which contains wrong words which you have
 
 ## File 3
 Given the following fr_jpg remove the green screen using numpy arrays only. And put image in front of image 2 i.e bg_jpg.
+
+## File 4
+In a post-apocalyptic world where Earth has become uninhabitable due to a nuclear fallout, a group of survivors is looking to you as their last hope. You are a skilled navigator on a mission to find the nearest potentially habitable planet to ensure the survival of humanity.
