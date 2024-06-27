@@ -31,3 +31,6 @@ The Problem:
 You are to write a program that recognizes the four kinds of errors described above.
 The Input:
 The input should be the file wrong.txt which contains wrong words which you have to corrected.
+
+## File 3
+Given the following fr_jpg remove the green screen using numpy arrays only. And put image in front of image 2 i.e bg_jpg.
